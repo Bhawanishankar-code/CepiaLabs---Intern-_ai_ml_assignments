@@ -1,1 +1,47 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyPwnVKExU0Oywql1BkKUhPe"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"markdown","source":["CepiaLabs Intern AI/ML\n","\n","Assignment Day 1\n","\n","Name: Bhawani Shankar Luhar\n","Intern ID: INT2026-9293\n","\n","About\n","This repository contains my AI/ML internship assignments given by CepiaLabs All tasks are completed as part of my learning and practice during the internship\n","\n","------\n","\n","Folder Structure\n","\n","CepiaLabs_Intern_AI_ML_Assignment\n","│\n","├── Day0\n","│     └── 20_Python_Basic_Programs.ipynb\n","│\n","│\n","│\n","└── Day1\n","      └── House_Price_Analysis.ipynb\n","\n","\n","\n","Day 0 Assignment\n","Solved 20 basic Python programs\n","Practiced loops, List, functions,dictionary and input-output\n","     ↑    ↑\n","     |    |\n","     ↓    ↓\n","Day 1 Assignment\n","Generated random house prices using NumPy =✓\n","•Calculated average price??\n","•Removed outliers??\n","•Visualized price distribution ??\n","\n","-------\n","Tools Used\n","-------\n","Python\n","NumPy\n","Matplotlib\n","Jupyter Notebook\n","\n","-------"],"metadata":{"id":"LY2PM2-BK8dk"}}]}
+# CepiaLabs Intern AI/ML 
+
+Assignment Day 1 
+
+Name: Bhawani Shankar Luhar
+Intern ID: INT2026-9293
+
+About
+This repository contains my AI/ML internship assignments given by CepiaLabs All tasks are completed as part of my learning and practice during the internship
+
+------
+
+Folder Structure
+
+CepiaLabs_Intern_AI_ML_Assignment
+│
+├── Day0
+│     └── 20_Python_Basic_Programs.ipynb
+│
+│
+│
+└── Day1
+      └── House_Price_Analysis.ipynb
+
+
+
+Day 0 Assignment
+Solved 20 basic Python programs
+Practiced loops, List, functions,dictionary and input-output
+     ↑    ↑
+     |    |
+     ↓    ↓
+Day 1 Assignment
+Generated random house prices using NumPy =✓
+•Calculated average price??
+•Removed outliers??
+•Visualized price distribution ??
+
+-------
+Tools Used
+-------
+Python
+NumPy
+Matplotlib
+Jupyter Notebook
+
+-------
